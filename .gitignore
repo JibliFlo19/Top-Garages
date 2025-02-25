@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+# Build output
+build/
+dist/
+# Environment files
+.env
+
+# Java & Spring Boot files
+target/
+*.log
+*.class
+*.jar
+
+# IDE & OS files
+.idea/
+.vscode/
+.DS_Store
+
